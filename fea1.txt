@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-this is code-1
-this is code-22222
-this is code-3
 
-=======
-this is code 1
-this is code 2222
-this is code 3
->>>>>>> fea1
+this is code-1
+this is code-222
+this is code-3
